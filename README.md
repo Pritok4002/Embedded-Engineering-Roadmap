@@ -259,15 +259,6 @@ _________________
 
 Embedded systems often require specialized test equipment to verify their functionality and performance. This equipment includes multimeters, oscilloscopes, logic analyzers, function generators, power supplies, and other tools that allow engineers to measure signals, inject stimuli, and monitor the behavior of embedded systems. 
 
-#### 🔵 Multimeter
-
-- [🎞️👶 Learn How to Use a Multimeter!](https://youtu.be/4lAyzRxsbDc)
-- [📝👶 How to Use a Multimeter ](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all)
-
-#### 🔵 Logic / Protocol Analyzer
-
-- [🎞️ Instrument Basics: Logic Analyzer](https://youtu.be/u1DYs2I-_lU)
-
 #### 🔵 Oscilloscope
 
 - [🎞️👶 What’s an OSCILLOSCOPE?](https://youtu.be/DgYGRtkd9Vs)
@@ -280,13 +271,6 @@ _________________
 ### ✳️ Prototyping Skills
 
 While hardware design and prototyping are primarily the responsibility of electronic hardware design engineers, embedded software engineers can benefit from a basic understanding of these concepts. This knowledge can be instrumental in identifying and resolving hardware-related issues during embedded system debugging. By having a grasp of hardware principles, embedded software engineers can effectively pinpoint the root causes of problems, leading to quicker and more efficient troubleshooting.
-
-#### 🔵 Breadboarding
-
-Breadboarding is a hands-on approach to prototyping circuits, providing a versatile platform for experimentation and circuit design. Embedded systems often utilize breadboards for their ease of use, flexibility, and cost-effectiveness. By connecting components on a breadboard, embedded systems developers can quickly test and refine their designs without the need for permanent soldering. This allows for rapid iterations and efficient debugging, making breadboarding an invaluable tool for embedded system development.
-
-- [🎞️👶 Everything You Need to Know about Breadboards](https://www.youtube.com/watch?v=mE33WpRWrXs)
-- [🎞️👶 How to Use a Breadboard](https://youtu.be/6WReFkfrUIk)
 
 #### 🔵 Hardware Design Basics
 
@@ -312,15 +296,6 @@ Breadboarding is a hands-on approach to prototyping circuits, providing a versat
 - [🎞️💎 Many EMC Tips to Help You Design Better PCB Boards (with Keith Armstrong)](https://www.youtube.com/watch?v=gHF5JyJF-N4)
 - [🔗 LearnEMC - EMC Resources](https://learnemc.com/emc-resources)
 - [🔗 A Better Way to Build PCBs - Flux AI](https://www.flux.ai/p/)
-
-#### 🔵 Soldering / Rework
-
-- [🎞️👶 How To Solder - Electronics with Becky Stern | Digi-Key Electronics](https://www.youtube.com/watch?v=sS4v2hIFp9I)
-- [🎞️👶 HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
-- [🎞️👶 Soldering Crash Course: Basic Techniques, Tips and Advice!](https://www.youtube.com/watch?v=6rmErwU5E-k)
-- [🎞️ How to Solder Through-Hole Components - Another Teaching Moment | DigiKey Electronics](https://www.youtube.com/watch?v=DJH7VLGJ4fs)
-- [🎞️ How to Solder QFN MLF Package by Hand (Using a Hot Air Rework Station) | Digi-Key Electronics](https://youtu.be/X3Rc1s6EpSI)
-- [🎞️ From Solderless Breadboard to Soldered Circuit - Electronics with Becky Stern | Digi-Key Electronics](https://www.youtube.com/watch?v=F9Krq7seV1g)
 
 _________________
 
